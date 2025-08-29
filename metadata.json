@@ -1,0 +1,5 @@
+{
+  "name": "Spice Pay Digital Collection Guide",
+  "description": "An interactive visual prototype demonstrating the proposed digital collection integration with Spice Pay for MFI/NBFC collection agents. This guide explains two models: a B2C model with a restricted wallet app and a B2B model with no app required.",
+  "requestFramePermissions": []
+}
